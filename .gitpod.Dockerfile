@@ -6,7 +6,6 @@ RUN sudo apt-get update && sudo apt-get install -y \
     xfce4-goodies \
     tightvncserver \
     language-pack-tr \
-    console-common \
     && sudo apt-get clean
 
 # Türkçe klavye ve dil ayarlarını yapılandır
