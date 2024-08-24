@@ -1,3 +1,2 @@
 image:
-  file:
-  docker://gitpod/workspace-full-vnc:latest
+  file: docker://gitpod/workspace-full-vnc:latest
